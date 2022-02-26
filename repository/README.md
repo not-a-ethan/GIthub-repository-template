@@ -4,7 +4,7 @@
 
 A description of what the project is.
 
-## How to use the site
+## How to use the program
 
 How you can use the code in the repository when the code is ran
 
